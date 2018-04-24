@@ -1,0 +1,13 @@
+{
+  "name": "grunt-graphql-php-generator",
+  "version": "1.0.0",
+  "author": "Kronos Technologies",
+  "license": "MIT",
+  "dependencies": {
+    "rimraf": "^2.6.2"
+  },
+  "main": "Gruntfile.js",
+  "keywords": [
+    "gruntplugin"
+  ]
+}
